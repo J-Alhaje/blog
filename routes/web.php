@@ -2,6 +2,6 @@
 
 use illuminate\support\facades\route;
 
-route::get('/', function () {
-    return view('home');
-})->name('home');
+route::view('/', 'welcome');
+route::view('/about', 'about');
+route::view('/contact', 'contact');

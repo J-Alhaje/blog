@@ -15,13 +15,10 @@
     <!-- https://cdnjs.com/libraries/font-awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
 
-    <title>Hello, world!</title>
+    <title>Hello, blog</title>
 </head>
 
-<body class="d-flex vw-100 vh-100 align-items-center justify-content-center">
-    <button class="btn btn-primary">
-        <i class="fab fa-accessible-icon me-1"></i>Hello, world!
-    </button>
+<body>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
